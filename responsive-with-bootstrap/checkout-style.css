@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.col-8{
+    width: 100%;
+    border: 1px solid red;
+}
+.col-4{
+    border: 1px solid green;
+}
+/* .container .username{
+    padding-left: auto;
+} */
+/* section .container{
+    height: inherit;
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+} */
